@@ -1,8 +1,20 @@
-## Hi there 👋
+## Hi there, I'm [Chau Truong](https://chaunmt.netlify.app/) 👋
 
-![Chau Truong's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunmt&show_icons=true&theme=transparent)
+I'm an undergraduate at the University of Minnesota - Twin Cities, MN, USA. I'm a software developer focusing on back-end development, machine learning, and AI. 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaunmt&layout=donut-vertical)](https://github.com/chaunmt/github-readme-stats)
+I am open to:
+- Any collaboration work/projects.
+- Internships.
+- Part-time or full-time positions.
+
+You can contact me through: [chaunmt.102@gmail.com](mailto:chaunmt.102@gmail.com)
+
+<a href="https://github.com/chaunmt/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chaunmt&theme=tokyonight" />
+</a>
+<a href="https://github.com/chaunmt/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaunmt&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
 <!--
 **chaunmt/chaunmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

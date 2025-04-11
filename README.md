@@ -13,10 +13,10 @@ You can contact me through:
 
 <br/>
 <a href="https://github.com/chaunmt/github-readme-stats">
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=chaunmt&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaunmt&theme=tokyonight" />
 </a>
 <a href="https://github.com/chaunmt/convoychat">
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaunmt&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chaunmt&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 <!--
 **chaunmt/chaunmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

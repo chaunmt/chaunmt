@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunmt)](https://github.com/chaunmt/github-readme-stats&theme=transparent)
+![Chau Truong's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunmt&show_icons=true&theme=transparent)
 
 <!--
 **chaunmt/chaunmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

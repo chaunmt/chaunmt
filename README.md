@@ -7,8 +7,11 @@ I am open to:
 - Internships.
 - Part-time or full-time positions.
 
-You can contact me through: [chaunmt.102@gmail.com](mailto:chaunmt.102@gmail.com)
+You can contact me through: 
+- Linkedin: [chaunmt](https://www.linkedin.com/in/chaunmt/)
+- Email: [chaunmt.102@gmail.com](mailto:chaunmt.102@gmail.com)
 
+<br/>
 <a href="https://github.com/chaunmt/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chaunmt&theme=tokyonight" />
 </a>

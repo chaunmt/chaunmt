@@ -2,6 +2,7 @@
 
 ![Chau Truong's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaunmt&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaunmt&layout=donut-vertical)](https://github.com/chaunmt/github-readme-stats)
 <!--
 **chaunmt/chaunmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

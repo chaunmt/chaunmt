@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/my%20website-8A2BE2)](http://chaunmt.netlify.app)
 [![](https://img.shields.io/badge/email-orange)](mailto:chaunmt.102@gmail.com)
 
-I'm an undergraduate at the University of Minnesota - Twin Cities, MN, USA. I'm a software developer focusing on back-end development, machine learning, and AI. 
+I'm an undergraduate at the University of Minnesota - Twin Cities, MN, USA. I'm a back-end focused software engineer with experience in data systems and machine learning. 
 
 I am open to:
 - Any collaboration work/projects.

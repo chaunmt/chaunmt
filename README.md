@@ -1,6 +1,6 @@
 ## Hi there 👋
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/chaunmt)
-[![](https://img.shields.io/badge/my%20website-8A2BE2)](http://chaunmt.netlify.app)
+[![](https://img.shields.io/badge/my%20website-8A2BE2)](http://chaunmt.com)
 [![](https://img.shields.io/badge/email-orange)](mailto:chaunmt.102@gmail.com)
 
 <!--
